@@ -1,4 +1,4 @@
-Daniel Santos Baptista e Isaias Maia de Oliveira
+**Nomes:** Daniel Santos Baptista e Isaias Maia de Oliveira
 
 # EP02 — Query builder funcional em Clojure
 
